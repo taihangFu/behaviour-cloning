@@ -13,6 +13,8 @@
 [lenet]: ./lenet.png
 [nvidia]: ./cnn-architecture-624x890.png
 
+[video_nvidia.mp4]: https://drive.google.com/open?id=1GNzAcaSIdPnOvyrS7V5M8C1QEOlpsH8n
+[video.mp4]: https://drive.google.com/open?id=16tCwOVn5bxMTco9fWHmeVwBFbY5A-Haf
 ### Submission Related
 #### 1. Submission includes all required files and can be used to run the simulator in autonomous mode
 
@@ -24,8 +26,8 @@ My project includes the following files:
 * **model.h5** containing a trained convolution neural network with LeNet architecture
 * **model_nvidia.h5** containing another trained convolution neural network Nvidia architecture
 * **writeup_report.md** summarizing the results
-* **video.mp4** recording for vehicle wiht LENET model to drive on Track 1
-* **video_nvidia.mp4** recording for vehicle wiht NVIDIA model to drive on Track 1
+* **[video.mp4]** recording for vehicle wiht LENET model to drive on Track 1
+* **[video_nvidia.mp4]** recording for vehicle wiht NVIDIA model to drive on Track 1
 
 #### 2. Submission includes functional code
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing 
